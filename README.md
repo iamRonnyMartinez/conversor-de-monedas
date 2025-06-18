@@ -51,8 +51,6 @@
         
         Conversión personalizada (elige cualquier par de monedas soportadas).
         
-        Visualización del historial de conversiones.
-        
         Formateo de resultados para mejor legibilidad.
 
 
@@ -87,22 +85,70 @@
                                         
 
 Paso 1: Ejecutar la aplicación
-bash
-java ConversorApp
+
+
+
+https://github.com/user-attachments/assets/2463b54d-b43a-46d1-89cb-dcbbf2e7e7f8
+
+
+
 Paso 2: Menú principal
-https://via.placeholder.com/600x400?text=Captura+Men%C3%BA+Principal
-(Ejemplo: Menú de opciones)
+
+
+
+![menu](https://github.com/user-attachments/assets/3ea1d929-0ff6-4eb3-8dc4-97aa1a91edcd)
+
 
 Paso 3: Seleccionar conversión
+
+
 Elige una opción del 1 al 7 para conversiones predefinidas o personalizadas.
 
+
+
 Paso 4: Ingresar cantidad
-https://via.placeholder.com/600x400?text=Captura+Conversi%C3%B3n
+
+
+
+https://github.com/user-attachments/assets/aa570357-d3b0-4999-ac5a-f404fdc2a301
+
+
+
 (Ejemplo: Convertir 100 USD a ARS)
 
+
+
 Paso 5: Ver resultado
-text
+
+
 100.0 USD = 98350.0 ARS
+
+
+
+Paso 6: Opción 7 para convertir otras monedas
+
+
+
+https://github.com/user-attachments/assets/ea6e74eb-b4bb-43a7-ae01-9e7ca5744daf
+
+
+
+Paso 7: Menu de todas las monedas que maneja la API ExchangeRate
+
+
+![menu2](https://github.com/user-attachments/assets/bc696ea1-d113-46a6-bf0f-34c1477ec9e0)
+
+
+
+Paso 8: Ingresar moneda de Origen, moneda Destino y monto para realizar la conversion
+(Ejemplo: Convertir 50 GBP a USD)
+
+
+https://github.com/user-attachments/assets/07d4afe1-fede-46b1-b955-2b2fe32475c9
+
+
+50.0 GBP = 67.355 USD
+
 
 
                                         📂 Estructura del Código
