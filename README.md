@@ -23,6 +23,8 @@
         
         10. Desarrollador
 
+        11. Agradecimiento
+
 
                                     📌 Descripción del Proyecto
                                     
@@ -185,3 +187,20 @@ https://github.com/user-attachments/assets/07d4afe1-fede-46b1-b955-2b2fe32475c9
         GitHub: @iamRonnyMartinez
         
         LinkedIn: linkedin.com/in/ronny-martinez-76640b343
+
+
+
+
+                                          🙏 Agradecimientos
+
+                                            
+        Quiero expresar mi más sincero agradecimiento a:
+        
+        ✨ Alura Latam y Oracle por esta invaluable oportunidad de formación en el programa ONE (Oracle Next Education). 
+        Gracias por democratizar el acceso a educación de calidad en desarrollo de software y por creer en el potencial 
+        de los aspirantes a programadores.
+        
+        ✨ A los instructores y compañeros del curso de Java, cuyo apoyo y conocimiento compartido hicieron posible la 
+        realización de este proyecto.
+        
+        Este conversor de monedas es el fruto tangible de lo aprendido durante el curso.
